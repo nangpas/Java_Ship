@@ -4,6 +4,7 @@ class Ship {
 	Image outShip; // 배 외부 이미지
 	Image inShip; // 배 내부 이미지
 	
+	int c;
 	char name; // 배이름
 	int level; // 배 상태
 	int width, height; // 배 크기
